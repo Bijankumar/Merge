@@ -13,8 +13,4 @@ class EvenOdd
 				}
 		}
 	}
-	public static void main(String[] args) 
-	{
-		num(1,20);
-	}
 }
