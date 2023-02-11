@@ -15,3 +15,7 @@ class Sample
 	 System.out.println("Area of Circle is :" + result);
 	}
 }
+class Evenodd
+{
+	
+}
