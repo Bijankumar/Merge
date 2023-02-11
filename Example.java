@@ -3,7 +3,7 @@ class AreaCircle
 	public static void main(String[] args) 
 	{
 		Sample.area(5);	
-		EvenOdd.num(1,20);
+		
 	}
 }
 class Sample
